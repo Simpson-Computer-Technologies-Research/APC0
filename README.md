@@ -14,7 +14,7 @@ Introduction to my Advanced Programming Club
 
 # Option #1 (Recommended): Visual Studio Code
 - Download VSCode Here: `https://code.visualstudio.com/download`
-- If you can't download VSCode, then you can use their online website: `https://vscode.dev/`
+- If you can't download VSCode, then you can use their Online IDE: `https://vscode.dev/`
 
 # Option #2: Repl.it
 - Visit `https://replit.com/signup` and create a new replit account
