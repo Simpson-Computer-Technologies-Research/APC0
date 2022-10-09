@@ -1,4 +1,5 @@
-# APC0
+# APC0 ![Stars](https://img.shields.io/github/stars/Simpson-Computer-Technologies-Research/APC0?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/Simpson-Computer-Technologies-Research/APC0?label=Watchers)
+![maxresdefault](https://user-images.githubusercontent.com/75189508/194362463-7f25767e-9d8d-4240-a5f1-1134ebd8e734.jpg)
 Introduction to my Advanced Programming Club
 
 # Creating A Github Account
