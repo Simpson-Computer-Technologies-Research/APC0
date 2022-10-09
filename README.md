@@ -7,7 +7,7 @@ Introduction to my Advanced Programming Club
 - Your projects are saved as 'repositories'
 
 # Simpson Computer Technologies Research
-- Visit https://github.com/Simpson-Computer-Technologies-Research
+- Visit `https://github.com/Simpson-Computer-Technologies-Research`
 - Here is the Advanced Programming Club Curriculum and some other things that relate to writing clean, fast, optimized code.
 - Feel free to check out some of the repositories.
 
